@@ -1,0 +1,44 @@
+
+Anotações Welcome To The Django
+
+-> Módulo 1 - Comece por aqui:
+
+-> Módulo 2 - O caminho da autonomia:
+
+-> Módulo 3- Apaixone-se pelo Python:
+
+ - Domine o Poder do Python == Python Power
+ - Você sabe Kung Fú? Me mostre! == Pacote Desafios Pythonicos
+ - A Máquina de Reconhecer Padrões == Raio X das Expressões Regulares
+ - Python Orientado à Objetos == Raio X da Orientado à Objetos
+
+-> Módulo 4 - Pronto é quando está no ar!
+
+ - Bônus: Raio X do Django:
+  - Pior forma de começar o django é pelo model
+  - Não seguir no modo bottom up mas sim top down
+  - Trabalha baseado em Request e Response do Http
+  - Admin do django é para fazer back-office de site de conteúdo
+  - É basicamente um pacote Python com os módulos (arquivo.py) manage, __init__, settings, urls e wsgi
+  - manage.py conecta o django em si com o seu projeto
+  - settings.py pode ou precisa ter apenas um independente do tamanho do projeto
+  - Request Handler - 6 pontos para pesquisar
+  - URL Conf, Resolver e Reverse
+  - View == Um callable que recebe uma instância de HTTPRequest e retorna uma instância de HTTPResponse
+  - Views' Anti-Patterns == Views grandes; conversões de dados; pilhas de decoradores; funções auxiliares que instanciam o HTTPResponse; contexto de templates gigantes;
+  - Forms == Não é utilizado para criar formulários necessariamente e sim para validação de dados. É responsável pelo pipeline de validação
+  - Fields == Valida dados da requisição e os converte para tipos Python
+  - Widgets == Representa o valor do field em html
+  - Model Fields == Correlacionam atributos do modelo com colunas da tabela
+  - Templates e context (dicionário de contexto)
+ 
+ - Supere o medo da web:
+  - Ex. de Stateless = TCP
+  - Ex. de Stateful = FTP
+
+ - Show me the code:
+  - A partir daqui será tudo feito no e anotado no Readme.md
+
+
+
+  
