@@ -5,8 +5,8 @@ WTTD Recap to be up to date
 
 Commands shot on wsl2 ubuntu zsh terminal:
 
- 1- python -m venv .wttd
- 2- source .wttd/bin/activate
- 3- pip install django~=4.1.0
- 4- django-admin startproject eventex .
- 5- python manage.py runserver
+ 1. python -m venv .wttd
+ 2. source .wttd/bin/activate
+ 3. pip install django~=4.1.0
+ 4. django-admin startproject eventex .
+ 5. python manage.py runserver
