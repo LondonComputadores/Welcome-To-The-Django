@@ -5,7 +5,7 @@ Anotações Welcome To The Django
 
 -> Módulo 2 - O caminho da autonomia:
 
--> Módulo 3- Apaixone-se pelo Python:
+-> Módulo 3- Apaixone-se pelo Python: (Apenas links para cursos pré django)
 
  - Domine o Poder do Python == Python Power
  - Você sabe Kung Fú? Me mostre! == Pacote Desafios Pythonicos
@@ -14,7 +14,7 @@ Anotações Welcome To The Django
 
 -> Módulo 4 - Pronto é quando está no ar!
 
- - Bônus: Raio X do Django:
+ - Aula Bônus: Raio X do Django:
   - Pior forma de começar o django é pelo model
   - Não seguir no modo bottom up mas sim top down
   - Trabalha baseado em Request e Response do Http
@@ -32,11 +32,11 @@ Anotações Welcome To The Django
   - Model Fields == Correlacionam atributos do modelo com colunas da tabela
   - Templates e context (dicionário de contexto)
  
- - Supere o medo da web:
+ - Aula Supere o medo da web:
   - Ex. de Stateless = TCP
   - Ex. de Stateful = FTP
 
- - Show me the code:
+ - Aula Show me the code:
   - A partir daqui será tudo feito no e anotado no Readme.md
 
 
